@@ -1,6 +1,9 @@
 # MADHAV - The-web-guide 
 # A Smart Voice Web Assistant
 
+## Project Status
+This project is currently under development and represents a partial implementation of the Smart Voice Web Assistant.
+
 ## Overview
 Smart Voice Web Assistant is a Chrome Extension that allows users to interact with websites using voice commands.  
 The assistant listens to spoken commands and guides the user to the correct element on the webpage using both visual highlighting and voice instructions.
